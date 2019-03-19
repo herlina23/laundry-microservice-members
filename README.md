@@ -10,10 +10,9 @@ GET /
 # Return
 # {
 #   "create_date": "2019-02-26T14:02:34.131Z",
-#   "member_name": "M Nindra Zaka",
+#   "member_name": "Herlina",
 #   "phone": "08123456789",
-#   "address": "Probolinggo",
-#   "member_id": "MEM2",
+#   "address": "Malang",
 #   "_id": 2,
 #   "__v": 0
 # }
