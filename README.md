@@ -30,13 +30,13 @@ GET /:id
 POST /
 # authorization: admin and kasir
 #Request Sample
-# {
-#   "member": {
-#       "member_name": "M Nindra Zaka",
+
+#    {
+#       "member_name": "Herlina",
 #       "phone": "08123456789",
-#       "address": "Probolinggo"
+#       "address": "Malang"
 #   }
-# }
+
 ```
 
 #### Update a member
